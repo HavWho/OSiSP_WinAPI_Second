@@ -1,4 +1,4 @@
-# OSISP2_WinApi2
+# OSISP_WinApi_Second
 
 Изучение вывода текста и шрифтов.
 
